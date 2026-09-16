@@ -16,7 +16,7 @@
 
 DevOps engineer by day, backend engineer by passion. I work with infrastructure, CI/CD, and cloud operations professionally, and in my free time I build full-stack side projects from scratch — backend, frontend, database, deployment, everything.
 
-All my side projects run on my own homelab: Docker containers on TrueNAS, managed through Portainer, exposed via Cloudflare tunnels. My go-to stack is **NestJS**, **React/Next.js**, **PostgreSQL**, and **Docker**.
+My go-to stack is **NestJS**, **React/Next.js**, **PostgreSQL**, and **Docker**. All my side projects are self-hosted.
 
 ---
 
