@@ -1,8 +1,7 @@
 <h1 align="center">Nour Aldeen Kassar</h1>
 
 <p align="center">
-  <strong>Backend Engineer</strong> based in Germany<br/>
-  Building self-hosted tools, real-time multiplayer games, and AI-powered applications
+  <strong>DevOps & Backend Engineer</strong> based in Germany
 </p>
 
 <p align="center">
@@ -15,9 +14,9 @@
 
 ### About Me
 
-I'm a backend engineer who enjoys building full-stack applications from scratch. I focus on clean architecture, real-time systems, and self-hosted solutions. Everything I build runs on my own infrastructure — Docker containers on a TrueNAS homelab, deployed via Portainer and Cloudflare tunnels.
+DevOps engineer by day, backend engineer by passion. I work with infrastructure, CI/CD, and cloud operations professionally, and in my free time I build full-stack side projects from scratch — backend, frontend, database, deployment, everything.
 
-I work with **NestJS**, **React/Next.js**, **PostgreSQL**, and **Docker** as my core stack, and I integrate AI capabilities through my own self-hosted LLM Gateway.
+All my side projects run on my own homelab: Docker containers on TrueNAS, managed through Portainer, exposed via Cloudflare tunnels. My go-to stack is **NestJS**, **React/Next.js**, **PostgreSQL**, and **Docker**.
 
 ---
 
@@ -42,23 +41,8 @@ I work with **NestJS**, **React/Next.js**, **PostgreSQL**, and **Docker** as my 
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **StockPulse** | AI-powered portfolio tracker for Trading 212 with health scoring, heatmaps, what-if simulator, and drag-and-drop dashboard | NestJS, Next.js, PostgreSQL, Docker | [Repo](https://github.com/NourAldeenKassar/stockpulse) |
-| **LLM Gateway** | Self-hosted API gateway routing to multiple LLM providers with automatic fallback, admin dashboard, and chat playground | NestJS, React, PostgreSQL, Docker | [Repo](https://github.com/NourAldeenKassar/llm-gateway) |
-| **AI Category Game** | Real-time multiplayer trivia with AI-generated questions, buzzer mode, question bank, and multi-language support | NestJS, Next.js, Socket.IO, PostgreSQL | [Play](https://category-game.nourengineer.com) |
-| **Password Game** | Spy-themed multiplayer password guessing game with real-time WebSocket gameplay and host/online modes | NestJS, Next.js, Socket.IO, PostgreSQL | [Play](https://password-game.nourengineer.com) |
-| **Planyly** | Shift planning platform for teams with automated scheduling, role-based access, and multi-language support | NestJS, React, PostgreSQL, Docker | [Visit](https://planyly-web.nourengineer.com) |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NourAldeenKassar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00d4ff&icon_color=00d4ff&text_color=f0f0f0" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NourAldeenKassar&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00d4ff&fire=10b981&currStreakLabel=00d4ff" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <em>All my projects are self-hosted on my homelab infrastructure</em>
-</p>
+| **StockPulse** | Portfolio tracker for Trading 212 with health scoring, heatmaps, what-if simulator, and customizable dashboard | NestJS, Next.js, PostgreSQL, Docker | [Repo](https://github.com/NourAldeenKassar/stockpulse) |
+| **LLM Gateway** | Self-hosted API gateway routing to multiple LLM providers with automatic fallback and admin dashboard | NestJS, React, PostgreSQL, Docker | [Repo](https://github.com/NourAldeenKassar/llm-gateway) |
+| **Category Game** | Real-time multiplayer trivia with buzzer mode, question bank, and multi-language support | NestJS, Next.js, Socket.IO, PostgreSQL | [Play](https://category-game.nourengineer.com) |
+| **Password Game** | Spy-themed multiplayer password guessing game with real-time WebSocket gameplay | NestJS, Next.js, Socket.IO, PostgreSQL | [Play](https://password-game.nourengineer.com) |
+| **Planyly** | Shift planning platform for teams with automated scheduling and role-based access | NestJS, React, PostgreSQL, Docker | [Visit](https://planyly-web.nourengineer.com) |
